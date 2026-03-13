@@ -98,8 +98,3 @@ draft: false
 复制对应嵌入代码然后粘贴至markdown文件中。
 
 <iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1fK4y1s7Qf&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-### 总结
-1. 翻译完整保留了原文的 Markdown 结构（包括 Frontmatter、代码块、提示框语法、折叠内容语法等），确保在 Fuwari 中可直接使用；
-2. 专业术语（如 Admonitions、Spoiler）补充了中文释义，同时保留原英文标识，兼顾可读性和功能兼容性；
-3. 所有代码块内的语法（如 `::github`、`:::note`、`:spoiler`）均未修改，仅翻译注释和说明文本，保证功能不受影响。

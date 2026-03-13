@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@400;500;600;700;800&family=Fira+Code:wght@400;500;600&display=swap');
+@font-face {
+    font-family: "萌圆体";
+    src: url('/public/fonts/屏显臻宋.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+@font-face {
+    font-family: '日文'; /* 自定义字体名称 */
+    src: url('/public/fonts/f910-shin-comic-2.04.otf') format('opentype'); /* 字体文件路径及格式 */
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "简体宋体";
+    src:local("BlueakaBeta2GBK DemiBold"),url('/public/fonts/HanaMinA.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+}
